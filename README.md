@@ -1,3 +1,6 @@
+### Hello World!  <img src="https://github.com/imssurya/imssurya/blob/master/assets/Hi.gif" width="29px">
+[![Visits Badge](https://badges.pufler.dev/visits/imssurya/imssurya)](https://badges.pufler.dev/visits/imssurya/imssurya)
+
 My name is SuryaPrakash and I'm a software developer. I'm from India, living in Coimbatore/Chennai. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
